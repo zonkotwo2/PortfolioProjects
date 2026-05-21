@@ -63,13 +63,13 @@ Machine learning, data processing, feature engineering, model evaluation, techni
 
 ### 4. Cellexus Bioreactor Project Contributions
 
-Folder: `Original output`
+Folder: `Cellexus-Bioreactor-Project`
 
 This folder contains my individual technical contributions to a group project with Cellexus. The project initially focused on developing and improving a Luer-Lock connector, then evolved into wider bioreactor development work.
 
 My contributions included C++ coding for different bioreactor systems and pump control, producing SolidWorks parts, and supporting practical engineering development across circuitry, design and testing outputs.
 
-Although this folder is named `Original output`, it represents my individual project outputs and contributions to the Cellexus bioreactor project.
+Although this folder is named `Cellexus-Bioreactor-Project`, it represents my individual project outputs and contributions to the Cellexus bioreactor project.
 
 **Skills shown:**  
 C++, embedded systems thinking, pump/control logic, SolidWorks, CAD design, circuitry, prototyping, technical problem-solving and engineering documentation.
