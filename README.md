@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Data Manipulation Portfolio
 
 Graduate Data Analyst portfolio showcasing projects in SQL, Power BI, data analysis, machine learning and technical problem-solving.
 
