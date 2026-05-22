@@ -85,7 +85,7 @@ C++, embedded systems thinking, pump/control logic, SolidWorks, CAD design, circ
 
 ## Tools and Technologies
 
-**Data Analysis:** SQL, Excel, Power BI, Power Query, DAX  
+**Data Analysis:** SQL, Power BI, Power Query, DAX  
 **Programming:** Python, C++, MATLAB  
 **Data Science:** machine learning, feature engineering, model evaluation, data visualisation  
 **Engineering:** SolidWorks, circuitry, prototyping, CAD design  
