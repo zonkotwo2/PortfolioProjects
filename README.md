@@ -1,4 +1,4 @@
-# Data Manipulation Portfolio
+# Data Analyst Portfolio
 
 Graduate Data Analyst portfolio showcasing projects in SQL, Power BI, data analysis, machine learning and technical problem-solving.
 
@@ -69,7 +69,7 @@ This folder contains my individual technical contributions to a group project wi
 
 My contributions included C++ coding for different bioreactor systems and pump control, producing SolidWorks parts, and supporting practical engineering development across circuitry, design and testing outputs.
 
-Although this folder is named `Cellexus-Bioreactor-Project`, it represents my individual project outputs and contributions to the Cellexus bioreactor project.
+The folder `Cellexus-Bioreactor-Project`, shows my individual project outputs and contributions to the Cellexus bioreactor project.
 
 **Skills shown:**  
 C++, embedded systems thinking, pump/control logic, SolidWorks, CAD design, circuitry, prototyping, technical problem-solving and engineering documentation.
